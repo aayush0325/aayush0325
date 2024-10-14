@@ -1,5 +1,5 @@
 #  About Me:
-Proficient in Node.js and Typescript development. Learning Cloud Computing and low level programming with C. 
+Proficient in Node.js and Typescript development. Learning backend dev in Java.
 
 
 #  Tech Stack:
