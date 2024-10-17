@@ -1,5 +1,5 @@
 #  About Me:
-Proficient in Node.js and Typescript development. Learning backend dev in Java.
+Proficient in Node.js and Typescript development. Learning backend dev in go.
 
 
 #  Tech Stack:
