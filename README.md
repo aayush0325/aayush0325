@@ -2,5 +2,5 @@ Hey! I'm Aayush Khanna, currently pursuing my undergrad in Civil Engineering at 
 
 - I was selected for Google Summer of Code 2025 with [Stdlib](https://github.com/stdlib-js/stdlib).
 - I've been recognised as one of the core contributors to [Stdlib](https://github.com/stdlib-js/stdlib)!
-- I've interned at a startup as a full stack dev at Numberlabs.
+- I've interned as a full stack dev at Numberlabs.
 - I'm really into low level programming!
