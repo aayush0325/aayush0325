@@ -1,7 +1,7 @@
 Hey! I'm Aayush Khanna, currently pursuing my undergrad in Civil Engineering at IIT (BHU) Varanasi. But my real interest lies in computer science, I'm proficient at full stack development using Node.js/TypeScript, Golang and Python. I'm also proficient in DevOps, Observablity and Monitoring using tools like Kubernetes, Terraform, Prometheus, Grafana on Cloud Platforms like AWS. I have a keen interest in systems programming. Here are some cool things about me :)
 
 - I was selected for Google Summer of Code 2025 with [Stdlib](https://github.com/stdlib-js/stdlib).
-- I am one of the first engineering hires at [Tejas AI (YC W25)](https://www.ycombinator.com/companies/tejas-ai)!
 - I've been recognised as one of the core contributors to [Stdlib](https://github.com/stdlib-js/stdlib)!
+- I am one of the first engineering hires at [Tejas AI (YC W25)](https://www.ycombinator.com/companies/tejas-ai)!
 - I've interned as a full stack dev at [Numberlabs](https://www.numberlabs.io/).
 - I'm really into low level programming!
